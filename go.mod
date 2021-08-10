@@ -1,4 +1,4 @@
-module messageSocket
+module module github.com/kingsae1/go.module.socket
 
 go 1.16
 
